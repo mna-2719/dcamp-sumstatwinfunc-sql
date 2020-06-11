@@ -35,5 +35,3 @@ SELECT
             ORDER BY Year ASC) AS Last_Champion
 FROM Athletics_Gold
 ORDER BY Event ASC, Gender ASC, Year ASC;
-
-
