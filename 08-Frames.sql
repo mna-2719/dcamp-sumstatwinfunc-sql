@@ -38,5 +38,3 @@ SELECT
             AND CURRENT ROW) AS Max_Medals
 FROM Chinese_Medals
 ORDER BY Athlete ASC;
-
-
