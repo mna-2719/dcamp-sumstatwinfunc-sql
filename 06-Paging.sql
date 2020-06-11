@@ -46,5 +46,3 @@ SELECT
 FROM Thirds
 GROUP BY Third
 ORDER BY Third ASC;
-
-
