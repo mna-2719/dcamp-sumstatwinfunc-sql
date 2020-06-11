@@ -17,4 +17,3 @@ FROM (
   ORDER BY Year ASC
 ) AS Years
 ORDER BY Year ASC;
-
