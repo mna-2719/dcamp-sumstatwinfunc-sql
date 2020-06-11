@@ -50,4 +50,3 @@ SELECT STRING_AGG(Country, ', ')
 FROM Country_Ranks
 -- Select only the top three ranks
 WHERE Rank <= 3;
-
