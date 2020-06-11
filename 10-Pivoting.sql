@@ -84,4 +84,3 @@ $$) AS ct (Country VARCHAR,
            "2012" INTEGER)
 
 Order by Country ASC;
-
