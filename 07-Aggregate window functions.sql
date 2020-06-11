@@ -51,5 +51,3 @@ SELECT
   MIN(Medals) OVER (ORDER BY Year ASC) AS Min_Medals
 FROM France_Medals
 ORDER BY Year ASC;
-
-
