@@ -33,4 +33,3 @@ SELECT
                 ORDER BY Medals DESC) AS Rank_N
 FROM Athlete_Medals
 ORDER BY Country ASC, RANK_N ASC;
-
