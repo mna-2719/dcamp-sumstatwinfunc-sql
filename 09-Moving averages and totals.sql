@@ -35,5 +35,3 @@ SELECT
      2 PRECEDING AND CURRENT ROW) AS Medals_MA
 FROM Country_Medals
 ORDER BY Country ASC, Year ASC;
-
-
