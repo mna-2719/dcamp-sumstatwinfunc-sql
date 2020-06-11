@@ -49,4 +49,3 @@ SELECT
   ) AS Last_City
 FROM Hosts
 ORDER BY Year ASC;
-
