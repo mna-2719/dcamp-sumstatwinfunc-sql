@@ -65,5 +65,3 @@ SELECT
     (ORDER BY Year ASC) AS Last_Champion
 FROM Weightlifting_Gold
 ORDER BY Year ASC;
-
-
