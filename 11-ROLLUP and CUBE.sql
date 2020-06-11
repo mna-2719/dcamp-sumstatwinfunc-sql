@@ -25,4 +25,3 @@ WHERE
 -- Get all possible group-level subtotals
 GROUP BY CUBE(Gender, Medal)
 ORDER BY Gender ASC, Medal ASC;
-
